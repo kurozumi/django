@@ -1,1 +1,1 @@
-" Djangoの練習
+# Djangoの練習
